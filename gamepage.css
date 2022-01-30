@@ -1,0 +1,36 @@
+#output{
+    background:white;
+    border-radius:10px;
+    border-top:10px solid deeppink;
+    padding:10px;
+    padding-left:20px;
+    float:none;
+}
+#output2{
+    background:white;
+    border-radius:10px;
+    border-top:10px solid deeppink;
+    float:none;
+    margin-left:200px;
+    margin-right:200px;
+    padding:10px;
+}
+#body{
+    background-color:hotpink;
+}
+#check{
+    font-size: large;
+    padding-left:10px;
+    padding-right:10px;
+}
+#first_number{
+    width:1000px;
+    height:30px;
+}
+#second_number{
+    width:1000px;
+    height:30px;
+}
+#send{
+    font-size: large;
+}

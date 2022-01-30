@@ -1,0 +1,42 @@
+#mynavbar {
+	background-color:black;
+    color:aliceblue;
+    text-align: left;
+}
+#image{
+    height: 500px;
+    width: 1536px;
+    margin-top:-230px;
+}
+#signin_section{
+    background-color:white;
+    margin-top: -87px;
+    margin-left: 626px;
+    margin-right:594px;
+    text-align: center;
+    padding-bottom:50px;
+    border-width: 2px;
+    border-style: ridge;
+}
+#player_1_name, #player_2_name{
+    border-top-width: 0px; 
+    border-bottom-width:1px;
+    border-right-width:0px;
+    border-left-width:0px;
+    border-style:ridge;
+    border-color: gainsboro;
+}
+h4{
+    margin-right:100px;
+}
+#login{
+    border-radius:100px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    height:30px;
+    width:60px;
+    font-size: medium;
+    background-color: blueviolet;
+    color:aliceblue;
+}
